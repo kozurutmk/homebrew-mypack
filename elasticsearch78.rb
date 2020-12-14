@@ -1,4 +1,4 @@
-class ElasticsearchAt78 < Formula
+class Elasticsearch78 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-7.8.1-darwin-x86_64.tar.gz?tap=elastic/homebrew-tap"

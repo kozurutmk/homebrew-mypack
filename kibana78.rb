@@ -1,4 +1,4 @@
-class KibanaAt78 < Formula
+class Kibana78 < Formula
   desc "Analytics and search dashboard for Elasticsearch"
   homepage "https://www.elastic.co/products/kibana"
   url "https://artifacts.elastic.co/downloads/kibana/kibana-oss-7.8.1-darwin-x86_64.tar.gz?tap=elastic/homebrew-tap"
